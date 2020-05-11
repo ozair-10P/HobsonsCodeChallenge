@@ -43,7 +43,7 @@ describe('Events Screen Scenarios', () => {
 
         //Following partial logic was created to assert that whether event occurs in future. 
         //Limitation is that the dates in front-end do not follow a specific format and for some events dates are missing.  
-        //From QA point of view better approach would be to follow a standard date template and an expected mock data should be provided.
+        //From automation engineer point of view better approach would be to follow a standard date template and an expected mock data should be provided.
 
         // const expected = 2020;
         // cy.get('@eventText'). then(result =>{
